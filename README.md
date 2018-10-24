@@ -2,14 +2,14 @@
 Attendance Management System 
 
 Following are the libraries and softwares that need to be downloaded in order to run the software.
-  1.MySQLdb
-  2.validate_email
-  3.datetime 
-  4.cv2
-  5.pyzbar 
-  6.qrcode
-  7.smtplib
-  8.Xamp Local Server with sql
+  1. MySQLdb
+  2. validate_email
+  3. datetime 
+  4. cv2
+  5. pyzbar 
+  6. qrcode
+  7. smtplib
+  8. Xamp Local Server with sql
 
 Below are the steps to be followed for executing the file:
   1.Open the attendance.py file, compile and run it.
