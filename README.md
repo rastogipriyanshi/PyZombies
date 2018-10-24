@@ -1,5 +1,5 @@
 # PyZombies
-Attendance Management System 
+### Attendance Management System 
 
 Following are the libraries and softwares that need to be downloaded in order to run the software.
   1. MySQLdb
