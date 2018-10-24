@@ -1,7 +1,7 @@
 # PyZombies
-### Attendance Management System 
+## Attendance Management System 
 
-Following are the libraries and softwares that need to be downloaded in order to run the software.
+#### Following are the libraries and softwares that need to be downloaded in order to run the software:
   1. MySQLdb
   2. validate_email
   3. datetime 
@@ -11,7 +11,7 @@ Following are the libraries and softwares that need to be downloaded in order to
   7. smtplib
   8. Xamp Local Server with sql
 
-Below are the steps to be followed for executing the file:
+#### Below are the steps to be followed for executing the file:
   1. Open the attendance.py file, compile and run it.
   2. Log-in window will open. Enter your login details and click on login if already registered else use the register now option for new user registration.
   3. After logging in, 4 options are provided to the user:
