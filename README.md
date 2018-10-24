@@ -12,7 +12,7 @@
   8. Xamp Local Server with sql
 
 #### Below are the steps to be followed for executing the file:
-  1. Open the attendance.py file, compile and run it.
+  1. Open the event_attendance.py file, compile and run it.
   2. Log-in window will open. Enter your login details and click on login if already registered else use the register now option for new user registration.
   3. After logging in, 4 options are provided to the user:
      - Click on add event to add new event.
